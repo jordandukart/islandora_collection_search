@@ -2,5 +2,4 @@
   "name": "jordandukart/islandora_collection_search",
   "description": "Islandora Collection Search",
   "type": "drupal-module",
-  "version": "7.x-dev"
 }
